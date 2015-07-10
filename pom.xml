@@ -29,6 +29,8 @@
 		</license>
 	</licenses>
 
+<!-- Test 2 -->
+
 	<properties>
 		<!-- Explicitly declaring the source encoding eliminates the following 
 			message: -->
